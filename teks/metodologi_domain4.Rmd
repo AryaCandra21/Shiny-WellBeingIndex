@@ -1,0 +1,11 @@
+---
+title: "metodologi_domain1"
+author: "Arya Candra"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+11.	Indikator Tingkat Kesempatan Kerja
+12.	Indikator Partisipasi Angkatan Kerja
+13.	Indikator Tingkat Pengangguran Terbuka
+14.	Indikator waktu luang (leisure)

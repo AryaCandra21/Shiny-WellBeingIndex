@@ -1,0 +1,10 @@
+---
+title: "metodologi_domain1"
+author: "Arya Candra"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+37.	Indikator Indeks Demokrasi Indonesia Aspek Kebebasan Sipil
+38.	Indikator Indeks Demokrasi Indonesia Aspek Hak-hak Politik
+39.	Indikator Indeks Demokrasi Indonesia Aspek Lembaga Demokrasi

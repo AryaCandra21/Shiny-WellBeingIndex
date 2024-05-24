@@ -1,0 +1,51 @@
+---
+output: html_document
+---
+
+<style>
+  .hanging-indent {
+    text-indent: -2em;
+    padding-left: 3em;
+  }
+</style>
+
+
+<blockquote class="hanging-indent">
+Ahakwa, I., Xu, Y., Tackie, E.A., & Mangudhla, T. (2023). How crucial are natural resources in descending environmental degradation in Ghana? A novel dynamic ARDL simulation approach. Journal of Cleaner Production, Volume 420. https://doi.org/10.1016/j.jclepro.2023.138427.  
+
+Angner, E. (2011). Are subjective measures of well-being “direct”? Australasian Journal of Philosophy, 89(1), 115–130. https://doi.org/10.1080/00048400903401665.
+
+
+Barrington-Leigh, C., & Escande, A. (2018). Measuring Progress and Well-Being: A Comparative Review of Indicators. Social Indicators Research, 135(3), 893–925. https://doi.org/10.1007/s11205-016-1505-0.
+
+
+Boarini, R., Kolev, A., & McGregor, A. (2014). Measuring well-being and progress in countries at different stages of development: Towards a more universal conceptual framework. OECD Development Center Working Papers, 325(325), 1–59.
+
+
+Durand, M. (2015). The OECD better life initiative: How’s life? And the measurement of well-being. Review of Income and Wealth, 61(1), 4–17. https://doi.org/10.1111/roiw.12156.
+
+
+Michalos,  et al. (2011). The Canadian Index of Wellbeing. News.Ge, https://news.ge/anakliis-porti-aris-qveynis-momava. 
+
+
+OECD. (2011). Compendium of OECD Well-Being Indicators. https://doi.org/10.1787/4ab9ee71-en.  
+
+
+Stiglitz, J. E., & Sen, A. (2009). The Measurement of Economic Performance and Social Progress Revisited Reflections and Overview. Documents de Travail de LOFCE, 33, 79. https://hal-sciencespo.archives-ouvertes.fr/hal-01069384%0Ahttp://www.ofce.sciences-po.fr/pdf/dtravail/WP2009-33.pdf.
+
+
+UN. (2023). The Sustainable Development Goals Report Special Edition. United Nations. Retrieved from: The Sustainable Development Goals Report 2023 | Department of Economic and Social Affairs (un.org).
+
+
+UNDP. (2010). Human development report 2010. New York: Palgrave Macmillan.
+
+
+Xiong, Y., Guo, H., Nor, D.D.M.M., & Song, A. (2023). Mineral resources depletion, environmental degradation, and exploitation of natural resources: COVID-19 aftereffects. Resources Policy, Volume 85, Part A. https://doi.org/10.1016/j.resourpol.2023.103907.
+
+
+Xu, C. & Li, X. (2023). Achieving common prosperity and green development through utilizing natural resources. Resources Policy, Volume 85, Part B. https://doi.org/10.1016/j.resourpol.2023.103881.
+
+
+</blockquote>
+
+

@@ -1,0 +1,10 @@
+---
+title: "teks_home"
+author: "Arya Candra"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# SUSTAINABLE WELL-BEING: UKURAN KESEJAHTERAAN PEMBANGUNAN BERKELANJUTAN
+
+![](social-wellness.jpg)

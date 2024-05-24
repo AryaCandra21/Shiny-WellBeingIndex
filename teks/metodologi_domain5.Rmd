@@ -1,0 +1,14 @@
+---
+title: "metodologi_domain1"
+author: "Arya Candra"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+15.	Indikator Angka Harapan Hidup
+16.	Indikator persentase perempuan pernah kawin 15-49 tahun yang proses melahirkan terakhirnya di fasilitas kesehatan
+17.	Indikator penduduk yang mempunyai keluhan kesehatan 
+18.	Indikator anak umur 12-23 bulan yang menerima imunisasi dasar lengkap dengan tingkat kesejahteraan 40% terendah
+19.	Indikator persentase penduduk berumur ≥ 15 tahun yang merokok
+20.	Indikator persentase balita pendek
+21.	Indikator persentase balita sangat pendek

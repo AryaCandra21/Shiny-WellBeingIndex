@@ -1,0 +1,10 @@
+---
+title: "metodologi_domain1"
+author: "Arya Candra"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+1. Indikator Indeks Kualitas Udara
+2.	Indikator Indeks Kualitas Air
+3.	Indikator Indeks Kualitas Tutupan Lahan

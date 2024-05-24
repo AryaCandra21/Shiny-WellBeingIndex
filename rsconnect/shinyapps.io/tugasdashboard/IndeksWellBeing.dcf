@@ -1,0 +1,13 @@
+name: IndeksWellBeing
+title: IndeksWellBeing
+username: tugasdashboard
+account: tugasdashboard
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10332312
+bundleId: 7906484
+url: https://tugasdashboard.shinyapps.io/IndeksWellBeing/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Tugas ICT - Aplikasi R-Shiny.xlsx

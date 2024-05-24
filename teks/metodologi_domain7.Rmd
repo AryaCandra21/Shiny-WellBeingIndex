@@ -1,0 +1,12 @@
+---
+title: "metodologi_domain1"
+author: "Arya Candra"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+28.	Indikator persentase penduduk yang memiliki jaminan kesehatan BPJS Kesehatan Penerima Bantuan Iuran (PBI)
+29.	Indikator persentase penduduk yang memiliki jaminan kesehatan BPJS Kesehatan Non-Penerima Bantuan Iuran (Non-PBI)
+30.	Indikator persentase penduduk yang memiliki jaminan kesehatan Jamkesda
+31.	Indikator persentase penduduk yang memiliki jaminan kesehatan asuransi swasta
+32.	Indikator persentase penduduk yang memiliki jaminan kesehatan Perusahaan/kantor

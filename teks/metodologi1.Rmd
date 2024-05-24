@@ -1,0 +1,14 @@
+---
+title: "metodologi"
+author: "Arya Candra"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# METODOLOGI
+
+## Metodologi Penyusunan Indeks
+
+Indeks well-being merupakan indeks komposit dari beberapa domain. Setiap domain terdiri dari indikator-indikator yang memiliki kontribusi terhadap domainnya. Metode yang digunakan dalam membangun indeks ini didasarkan pada panduan OECD mengenai penyusunan indikator komposit (OECD, 2008). Framework yang digunakan dalam penyusunan indeks well-being di Indonesia ini didasarkan pada OECD dengan penyesuaian domain-domain yang relevan. Pemilihan indikator di dalam domain didasarkan pada pola data dan ketersediaan data empiris di Indonesia sejak tahun 2010. Referensi waktu ini didasarkan pada tahun dasar yang selama ini digunakan untuk menghitung pertumbuhan ekonomi di Indonesia.
+
+Tahapan lengkap penghitungan indeks yang dilakukan pada aplikasi ini adalah sebagai berikut.

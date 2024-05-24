@@ -1,0 +1,28 @@
+---
+output: html_document
+---
+
+<style>
+  .hanging-indent {
+    text-indent: -2em;
+    padding-left: 3em;
+  }
+</style>
+
+<blockquote class="hanging-indent">
+Banzhaf, E. Berrera, F., Kindler, A., Reyes-Paecke, s., Schlink, U., Welz, J. & Kabisch, S. (2014). A conceptual framework for integrated analysis of environmental quality and quality of life. Ecological Indicators 45(2014 664-668. https://doi.org/10.1016/j.ecolind.2014.06.002. 
+
+
+Davis, Z., Groh, M. de, & Rainham, D.G. (2022). The Canadian Environmental Quality Index (Can-EQI): Development and calculation of an index to assess spatial variation of environmental quality in Canada’s 30 largest cities. Environment International 170 (2022) 107633. https://doi.org/10.1016/j.envint.2022.107633. 
+
+
+Michalos,  et al. (2011). The Canadian Index of Wellbeing. News.Ge, https://news.ge/anakliis-porti-aris-qveynis-momava.
+
+
+OECD. (2008). Handbook on Constructing Composite Indicators – Methodology and User Guide, report jointly prepared by the OECD and the Joint Research Centre of the European Commission, OECD, Paris. 
+
+
+Tanguay, G.A., Rajaonson, J. & Bilodeau, P. (2023). Lingking quality of life and sustainability in Canadian cities. Cities Volume 143, 104608. https://doi.org/10.1016/j.cities.2023.104608. 
+
+
+</blockquote>

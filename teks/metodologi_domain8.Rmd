@@ -1,0 +1,11 @@
+---
+title: "metodologi_domain1"
+author: "Arya Candra"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+33.	Indikator Indeks Kebahagiaan Dimensi Kepuasan Hidup Personal
+34.	Indikator Indeks Kebahagiaan Dimensi Kepuasan Hidup Sosial
+35.	Indikator Indeks Kebahagiaan Dimensi Afeksi
+36.	Indikator Indeks Kebahagiaan Dimensi Makna Hidup

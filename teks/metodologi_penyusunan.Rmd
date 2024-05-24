@@ -1,0 +1,28 @@
+---
+title: "metodologi_penyusunan"
+author: "Arya Candra"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+1.  Membangun framework yang digunakan yaitu 10 domain.
+2.  Menentukan indikator-indikator yang dipilih untuk merepresentasikan karakteristik domainnya.
+3.  Menentukan klasifikasi indikator ke dalam indikator positif dan indikator negatif. Suatu indikator diklasifikasikan ke dalam indikator positif jika peningkatan nilai numerik indikator mengindikasikan peningkatan kesejahteraan. Begitu pula sebaliknya.
+4.  Menghitung indeks perubahan persentase indikator yang disimbolkan sebagai I (Michalos et al., 2008), yang didasarkan pada tahun dasar sebagai referensi yaitu tahun 2010. Indeks yang dihasilkan pada tahap ini sebanyak jumlah indikator yang digunakan pada setiap domain dan setiap tahun. Karena indikator diklasifikasikan ke dalam indikator positif dan negatif, penghitungan indeks menggunakan yang berbeda. Formula yang digunakan untuk menghitung indeks perubahan persentase adalah:
+
+$$
+I_{ipct(+)} = \frac{i_t}{i_b}\times100
+$$
+
+atau
+
+$$
+I_{ipct(-)} = \frac{1}{i_t/i_b}\times100
+$$
+
+$I_t$ adalah nilai indikator pada tahun yang dihitung/berlaku/berjalan, sedangkan $I_b$ adalah nilai indikator pada tahun dasar (2010).
+
+5.  Menghitung indeks perubahan persentase domain, yaitu dengan melakukan rata-rata aritmatika dari indeks perubahan persentase indikator yang sudah dilakukan pada penghitungan sebelumnya. Indeks ini tersedia sebanyak jumlah domain (10) pada masing-masing tahun.
+6.  Menghitung indeks well-being, dengan merata-ratakan indeks perubahan persentase domain sehingga diperoleh indeks komposit dengan mengasumsikan kontribusi yang sama dari setiap domain yang digunakan.
+
+Indeks well-being yang dihitung pada aplikasi ini (**indeks well-being equal domain**) dibandingkan dengan indeks yang tidak memperhitungkan indeks perubahan persentase domain, yang disebut sebagai **indeks well-being equal indikator**. Hal ini untuk memberikan gambaran urgensi domain dan kontribusinya dalam **Sustainable Indonesian Index of Well-being**.

@@ -1,0 +1,13 @@
+---
+title: "metodologi_domain1"
+author: "Arya Candra"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+22.	Indikator rata-rata lama sekolah penduduk ≥ 15 tahun
+23.	Indikator Angka Partisipasi Kasar (APK) Pendidikan Anak Usia Dini (PAUD)
+24.	Indikator Tingkat Penyelesaian Jenjang Pendidikan SD/Sederajat
+25.	Indikator Tingkat Penyelesaian Jenjang Pendidikan SMP/Sederajat
+26.	Indikator Tingkat Penyelesaian Jenjang Pendidikan SMA/Sederajat
+27.	Indikator Angka Partisipasi Kasar (APK) Perguruan Tinggi (PT) %

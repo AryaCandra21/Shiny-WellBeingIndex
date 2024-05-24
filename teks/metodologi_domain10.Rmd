@@ -1,0 +1,11 @@
+---
+title: "metodologi_domain1"
+author: "Arya Candra"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+40.	Indikator rasio resiko penduduk terkena tindak pidana per 100.000 penduduk
+41.	Indikator jumlah tindak pidana
+42.	Indikator proporsi penduduk yang merasa aman berjalan sendirian di area tempat tinggalnya
+43.	Indikator proporsi penduduk yang menjadi korban kejahatan kekerasan dalam 12 bulan terakhir  

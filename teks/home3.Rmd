@@ -1,0 +1,31 @@
+---
+title: "home1"
+author: "Arya Candra"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+## Sustainable Well-Being Framework
+
+Kompleksitas pengukuran yang dicakup dalam well-being dalam memotret kesejahteraan menyebabkan penelitian mengenai topik ini terus berlanjut. Salah satu indeks komposit terkenal yang digunakan untuk mengukur capaian pembangunan adalah Indeks Pembangunan Manusia (IPM) yang diadopsi dari Human Development Index (HDI) oleh United Nations Development Programme (UNDP, 2010). IPM menggabungkan tiga dimensi dalam penghitungannya, yaitu kesehatan, pendidikan dan pendapatan. Canada menggunakan ukuran Canadian Index of Well-Being yang menggabungkan delapan domain yaitu living standards, healthy populations, community vitality, democratic engagement, leisure and culture, time use, education dan environment (Michalos et al., 2011).
+
+Negara-negara yang tergabung dalam OECD mempunyai kompendium dalam penyusunan indeks well-being (OECD, 2011). Kerangka konseptual yang digunakan mengacu pada ruang lingkup yang lebih luas yaitu:
+
+1.  Material living conditions, yang mencakup income and wealth, jobs and earnings, dan housing.
+2.  Quality of life, terdiri atas: health status, work and life balance, education and skills, social connections, civic engagement and governance, environment quality, personal security, dan subjective well-being.
+3.  Sustainability of well-being over time, yang meliputi pelestarian berbagai jenis modal yaitu natural capital, economic capital, human capital, dan social capital.
+
+Kerangka yang disusun ini merupakan pengukuran yang sangat luas dalam cakupannya sehingga setiap negara dapat menyesuaikan dengan data empiris yang relevan dengan kondisi populasinya dan tentunya dengan ketersediaan data yang dimiliki.
+
+Indeks well-being yang disusun pada aplikasi ini mengadopsi kerangka konseptual dari OECD dan menggunakan metode seperti yang digunakan pada Canadian Index of Well-Being. Indeks ini menggunakan penimbang yang sama, karena mengasumsikan bahwa setiap domain memiliki kontribusi yang sama pentingnya dalam kesejahteraan dan setiap indikator memiliki kontribusi yang sama di dalam domainnya. Indeks well-being yang disusun sesuai dengan karakteristik data empiris di Indonesia ini terdiri dari 10 domain, yaitu:
+
+1.  Environment
+2.  Income
+3.  Housing
+4.  Work
+5.  Health
+6.  Education
+7.  Social security
+8.  Subjective well-being
+9.  Democratic engagement
+10. Safety

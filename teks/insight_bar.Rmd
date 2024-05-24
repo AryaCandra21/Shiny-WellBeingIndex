@@ -1,0 +1,8 @@
+---
+title: "insight_bar"
+author: "Arya Candra"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+Insight bar : Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget velit gravida nunc molestie mollis. Pellentesque a leo cursus, aliquet est id, pellentesque sapien. Interdum et malesuada fames ac ante ipsum primis in faucibus. In pulvinar urna a est viverra, quis mattis nisl tempor. Curabitur posuere faucibus tellus, ut sagittis leo auctor vitae. Cras ac lorem in neque bibendum aliquet non in magna. Aenean mollis semper urna id pellentesque. Nulla posuere nec diam non iaculis. Mauris accumsan lacus non tortor aliquet porttitor. Quisque massa neque, pharetra vitae sapien id, varius interdum nisi. Integer non laoreet eros, at pulvinar ipsum. Nullam nec augue sed turpis placerat imperdiet. Ut convallis blandit tempus. Donec ut pharetra purus. Donec semper laoreet dui, eget maximus odio viverra posuere. Integer vitae consectetur purus.

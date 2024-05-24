@@ -1,0 +1,17 @@
+---
+title: "home1"
+author: "Arya Candra"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+
+## Pembangunan Berkelanjutan Sebagai Suatu Keniscayaan
+
+"No one left behind" adalah prinsip yang diusung dalam agenda SDGs yang diharapkan tercapai pada tahun 2030. Indonesia yang ikut menyepakati 17 goals pembangunan berkelanjutan dalam SDGs, tentunya harus mengupayakan agenda tersebut. Tujuan-tujuan ini memerlukan perubahan mendasar dan menyeluruh sehingga terkesan ambisius. Namun, upaya mulia ini adalah suatu keniscayaan untuk mencapai pembangunan menuju kesejahteraan masa kini tetapi tetap memperhatikan hak generasi yang akan datang (UN, 2023).
+
+Kesejahteraan menjadi alasan banyak negara untuk mengeksploitasi sumber daya yang tersedia terutama alam. Sumber daya alam yang dieksploitasi dan dikuras karena penambangan dan konsumsi yang berlebihan menyebabkan degradasi lingkungan (Xiong et al., 2023). Tak dapat dipungkiri pada awal peradaban, manusia menggunakan sumber daya dari alam sebagai input yang utamanya. Daya dukung lingkungan yang tidak dapat ditoleransi dengan siklus alami dapat menyebabkan degradasi lingkungan. Artinya, daya dukung lingkungan menjadi menurun kualitasnya. Jika hal ini terjadi pada waktu yang lama, maka lingkungan akan semakin menurun kemampuannya dalam menyediakan kebutuhan manusia, bahkan menjadi tidak mampu lagi bersahabat (Ahakwa, et al., 2023).
+
+Betapa pentingnya peran alam dalam kehidupan manusia, menyebabkan pembangunan saat ini wajib mencakup dimensi sosial, ekonomi dan lingkungan. Peran lingkungan yang terjaga ini akan menjamin bahwa kesejahteraan yang dinikmati sekarang ini terus dapat berlangsung pada generasi-generasi berikutnya atau berkelanjutan. Pembangunan seperti itu disebut pembangunan berkelanjutan, yang menjadi solusi terhadap perubahan iklim dan mendefinisikan proses aktivitas manusia yang sejalan dengan perlindungan dan pemulihan sumber daya alam (Xu & Li, 2023).
+
+Ukuran dari capaian pembangunan berkelanjutan tersebut tentu saja tidak dapat disamakan dengan ukuran kesejahteraan yang selama ini digunakan. Banyak negara, termasuk Indoneisa masih menggunakan ukuran yang condong kepada ukuran ekonomi, melihat hal material sebagai unsur terpenting dalam pemenuhan kebutuhan manusia. Indonesia masih menggunakan Produk Domestik Bruto (PDB) sebagai ukuran kesejahteraan pada level nasional dan Produk Domestik Regional Bruto (PDRB) sebagai ukuran kesejahteraan wilayah regional dan PDRB perkapita sebagai ukuran kesejahteraan penduduk. Tentu saja hal ini tidak cukup lagi, dan diperlukan ukuran kesejahteraan yang lebih komprehensif, mencakup dimensi sosial, ekonomi dan lingkungan.

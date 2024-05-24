@@ -1,0 +1,12 @@
+---
+title: "metodologi2"
+author: "Arya Candra"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+## Sustainable Indonesian Index of Well-Being
+
+Kualitas lingkungan hidup mempunyai pengaruh yang kuat terhadap kualitas kehidupan bagi umat manusia (Banzhaf et al., 2014). Dimensi lingkungan menjadi suatu keniscayaan untuk diperhitungkan dalam mengukur kesejahteraan manusia. Integrasi kondisi lingkungan dalam mengukur kualitas hidup ini sebagai upaya untuk menjamin keberlangsungan kesejahteraan yang bertahan sampai jangka panjang dan berkelanjutan selagi manusia hidup di bumi ini. Oleh karena itu, domain lingkungan menjadi domain pertama dalam penyusunan indeks well-being Indonesia. Karena peran lingkungan tidak hanya berpengaruh secara mikro saja terhadap kesehatan individu, namun juga berkaitan dengan kesenjangan sosial ekonomi antarwilayah (Davis, et al., 2022). Ini lebih sesuai diterapkan di negara kepulauan seperti Indonesia, yang memiliki keragaman berbagai sumber daya. Kualitas hidup dibuktikan berkorelasi positif dengan keberlanjutan sosio-ekonomi, kelestarian lingkungan dan indeks komposit keberlanjutan global (Tanguay et al., 2023).
+
+Sustainable Indonesia Index of Well-Being yang disusun pada aplikasi ini menggabungkan 10 domain dan 43 indikator sebagai berikut.

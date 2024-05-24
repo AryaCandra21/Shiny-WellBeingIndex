@@ -1,0 +1,13 @@
+---
+title: "metodologi_domain1"
+author: "Arya Candra"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+5.	Indikator persentase rumah tangga yang memiliki akses terhadap sanitasi layak
+6.	Indikator persentase rumah tangga yang memiliki akses terhadap air minum layak
+7.	Indikator persentase rumah tangga yang menggunakan listrik sebagai sumber energi (PLN)
+8.	Indikator persentase rumah tangga yang memiliki status kepemilikan rumah milik sendiri
+9.	Indikator persentase rumah tangga dengan luas hunian perkapita < 7,2 meter persegi
+10.	Indikator persentase rumah tangga yang memiliki status kepemilikana rumah kontrak/sewa
